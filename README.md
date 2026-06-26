@@ -3,7 +3,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 
 
 - luri file is luri keyboard for xkb (linux systems)
-- luri.kmx file is luri keyboard for for desktop (keyman app on desktop: windows and so on)
+- luri.kmp file is for keyman app on all platforms including desktop (windows and so on)
 
 
 # Luri Alphabet to IPA Mapping
