@@ -9,7 +9,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 ## Vowels
 | SLB | IPA | Type | Example |
 |---|---|---|---|
-| a | [ɐ] | reduced | Fasl |
+| a | [æ] | reduced | Fasl |
 | â | [ɑ] | full | matâ |
 | e | [e] | full | Ebrahim, Eshâq |
 | ê | [ə] | reduced (schwa) | bêřam |
