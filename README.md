@@ -8,7 +8,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 
 ## Vowels
 
-| lu | IPA | Type | Example |
+| luritin | IPA | Type | Example |
 | --- | --- | --- | --- |
 | a | [æ] | reduced | Fasl |
 | â | [ɑ] | full | matâ |
@@ -25,7 +25,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 
 ## Consonants
 
-| lu | IPA | Example |
+| luritin | IPA | Example |
 | --- | --- | --- |
 | b | b | baw [bæʋ] |
 | c | k | com [kom] |
@@ -33,7 +33,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 | f | f | Fres [fɾes] |
 | g | g | gênâyalšun [gənɑjælʃun] |
 | h | h | Hezeqêyâ [hezeqəjɑ] |
-| j | dʒ | jiâvâbu [dʒiɑvâbu] |
+| j | dʒ | jiâvâbu [dʒiɑvɑbu] |
 | k | [k] | kalâm [kælɑm] |
 | l | l | Sêleimun [səleimun] |
 | ł | ɫ | łat [ɫæt] |
@@ -45,7 +45,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 | r | [ɾ] | weak (flap/tap) |
 | ř | [r] | strong (trilled) |
 | s | s | Masih [mæsih] |
-| š | ʃ | Šajaranâma [ʃædʒæɾænâmæ] |
+| š | ʃ | Šajaranâma [ʃædʒæɾænæmæ] |
 | t | t | Tartib [tæɾtib] |
 | v | [v] | full |
 | w | [ʋ] | reduced |
@@ -53,7 +53,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 | y | j | Yahudâ [jæhudɑ] |
 | z | z | zamun [zæmun] |
 | ž | ʒ | ž (rare) |
-| č | tʃ | čârda [tʃâɾdæ] |
+| č | tʃ | čârda [tʃɑɾdæ] |
 | đ | ð | bâđ |
 | ǧ | [ʁ] | ǧamvabâr |
 
