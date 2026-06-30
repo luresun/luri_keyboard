@@ -1,14 +1,15 @@
 a Luri keybord for mobile:
-install Keyman app on your mobile phone and go to Keyman Setting and install this keyboard (luri.kmp) via "Install From File" menu and use it.  
+install Keyman app on your mobile phone and go to Keyman Setting and install this keyboard (luri.kmp) via "Install From File" menu and use it.
 
-- luri.kmp file is for keyman app on all platforms including desktop (windows and so on)
-- luri file is luri keyboard for xkb (linux systems)
+* luri.kmp file is for keyman app on all platforms including desktop (windows and so on)
+* luri file is luri keyboard for xkb (linux systems)
 
 # Luri Alphabet to IPA Mapping
 
 ## Vowels
-| SLB | IPA | Type | Example |
-|---|---|---|---|
+
+| lu | IPA | Type | Example |
+| --- | --- | --- | --- |
 | a | [æ] | reduced | Fasl |
 | â | [ɑ] | full | matâ |
 | e | [e] | full | Ebrahim, Eshâq |
@@ -21,36 +22,38 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 | ü | [uː] | long u | Büaz |
 | ö | [oː] | long o | göt |
 | î | [ʔi] | diphthong (glottal stop + i) | tabîd |
+
 ## Consonants
-| SLB | IPA | Example |
-|---|---|---|
-| b | b | baw [bɐʋ] |
+
+| lu | IPA | Example |
+| --- | --- | --- |
+| b | b | baw [bæʋ] |
 | c | k | com [kom] |
 | d | d | Davud [dɑvud] |
 | f | f | Fres [fɾes] |
-| g | g | gênâyalšun [gənɑjɐlʃun] |
+| g | g | gênâyalšun [gənɑjælʃun] |
 | h | h | Hezeqêyâ [hezeqəjɑ] |
-| j | dʒ | jiâvâbu [dʒiɑvɑbu] |
-| k | [k] | kalâm [kɐlɑm] |
+| j | dʒ | jiâvâbu [dʒiɑvâbu] |
+| k | [k] | kalâm [kælɑm] |
 | l | l | Sêleimun [səleimun] |
-| ł | ɫ | łat [ɫɐt] |
-| m | m | Matâ [mɐtɑ] |
-| n | n | nahâtar [nɐhɐtɐɾ] |
-| ṅ | ŋ | baṅg [bɐŋg] |
+| ł | ɫ | łat [ɫæt] |
+| m | m | Matâ [mætɑ] |
+| n | n | nahâtar [næhâtæɾ] |
+| ṅ | ŋ | baṅg [bæŋg] |
 | p | p | Pâdšâh [pɑdʃɑh] |
 | q | [q] | Eshâq [eshɑq] |
 | r | [ɾ] | weak (flap/tap) |
 | ř | [r] | strong (trilled) |
-| s | s | Masih [mɐsih] |
-| š | ʃ | Šajaranâma[ʃɐdʒɐɾɐnɑmɐ] |
-| t | t | Tartib [tɐɾtib] |
+| s | s | Masih [mæsih] |
+| š | ʃ | Šajaranâma [ʃædʒæɾænâmæ] |
+| t | t | Tartib [tæɾtib] |
 | v | [v] | full |
 | w | [ʋ] | reduced |
-| x | χ | Xođâvand [χoðɑvɐnd] |
-| y | j | Yahudâ [jɐhudɑ] |
-| z | z | zamun [zɐmun] |
+| x | χ | Xođâvand [χoðɑvænd] |
+| y | j | Yahudâ [jæhudɑ] |
+| z | z | zamun [zæmun] |
 | ž | ʒ | ž (rare) |
-| č | tʃ | čârda [tʃɑɾdɐ] |
+| č | tʃ | čârda [tʃâɾdæ] |
 | đ | ð | bâđ |
 | ǧ | [ʁ] | ǧamvabâr |
 
