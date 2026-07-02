@@ -34,7 +34,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 
 | Luritin | IPA | Description / Notes | Example | Transcription |
 | :---: | :---: | :--- | :--- | :--- |
-| **b** | `[b]` | voiced bilabial stop | baw | `[bæʋ]` |
+| **b** | `[b]` | voiced bilabial stop | bâw | `[bɑʋ]` |
 | **c / č** | `[tʃ]` | voiceless postalveolar affricate | čârda | `[tʃɑɾdæ]` |
 | **d** | `[d]` | voiced alveolar stop | Davud | `[dɑvuːd]` |
 | **f** | `[f]` | voiceless labiodental fricative | Fres | `[fɾes]` |
