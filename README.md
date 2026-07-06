@@ -59,7 +59,7 @@ install Keyman app on your mobile phone and go to Keyman Setting and install thi
 | **x** | `[χ]` | voiceless uvular fricative | Xođâvand | `[χoðɑvænd]` |
 | **y** | `[j]` | palatal approximant (English "y") | Yahudâ | `[jæhuːdɑ]` |
 | **z** | `[z]` | voiced alveolar fricative | zamun | `[zæmuːn]` |
-| **ž** | `[ʒ]` | voiced postalveolar fricative (rare) | žah | `[ʒæh]` |
+| **ž** | `[ʒ]` | voiced postalveolar fricative | žah | `[ʒæh]` |
 | **đ** | `[ð]` | voiced dental fricative | bâđ | `[bɑð]` |
 | **ǧ** | `[ʁ]` | voiced uvular fricative | ǧamvabâr | `[ʁæmvæbɑɾ]` |
 
